@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1dRoppfISnivZBPz+NO3sp6+/ZQv6TQyHWq6skePaYQsUeLRTOh4/Qlf0UiSI8oTSfG5ZHv2bwDXjPmkkVF4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AustinH\\source\\repos\\DataProcessor\\DataProcessor\\DataProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AustinH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\AustinH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

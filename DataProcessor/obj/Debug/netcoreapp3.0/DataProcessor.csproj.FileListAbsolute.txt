@@ -1,0 +1,13 @@
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.0\DataProcessor.exe
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.0\DataProcessor.deps.json
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.0\DataProcessor.runtimeconfig.json
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.0\DataProcessor.runtimeconfig.dev.json
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.0\DataProcessor.dll
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.0\DataProcessor.pdb
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.0\DataProcessor.csprojAssemblyReference.cache
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.0\DataProcessor.AssemblyInfo.cs
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.0\DataProcessor.dll
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.0\DataProcessor.pdb
+C:\Users\AustinH\source\repos\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.0\DataProcessor.genruntimeconfig.cache

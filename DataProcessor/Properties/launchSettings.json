@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\pluralsight\\c-sharp\\02\\demos\\before\\psdata\\in\\data1.txt"
+    }
+  }
+}
